@@ -4,24 +4,17 @@
 	"contents": [
 		{
 			"name": "test_KO.ta",
-          	"metadata" : {},
-			"contents": null
-		},
-		
-		{
-			"name": "test_OK.ta",
-			"metadata" : {
-            "linked-TC": ["guid-1", "guid-2"],                   
+          	"metadata" : {
+	    "linked-TC": ["d0e56060-7923-493d-93bc-5931cb9b3be6"],                   
             "key2": null,                                                
-            "key3": "value"                                             
-          	},
-          	
+            "key3": "value"},
 			"contents": null
 		},
 		
 		{
 			"name": "test_OK.ta",
-         	
+			"metadata" : {},
+          	
 			"contents": null
 		}
 		
