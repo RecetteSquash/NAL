@@ -5,7 +5,7 @@
 		{
 			"name": "test_KO.ta",
           	"metadata" : {
-	    "linked-TC": ["e003302a-f481-4cec-b942-482d11b13b31"],                   
+	    "linked-TC": [],                   
             "key2": null,                                                
             "key3": "value"},
 			"contents": null
