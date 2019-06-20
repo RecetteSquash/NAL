@@ -5,7 +5,7 @@
 		{
 			"name": "test_KO.ta",
           	"metadata" : {
-	    "linked-TC": ["25f54760-b5cc-4ef8-accc-505d08a162f8", "816f76bb-8683-4b47-95ab-b3e223606c83", "ed7dbeb0-3465-40cf-b283-c863b4faead4","168c0305-b53f-440c-9fd4-6e9aec49d742"],                   
+	    "linked-TC": ["c43f0b9f-702d-4269-b450-c6b537a79686", "25f54760-b5cc-4ef8-accc-505d08a162f8", "816f76bb-8683-4b47-95ab-b3e223606c83", "ed7dbeb0-3465-40cf-b283-c863b4faead4","168c0305-b53f-440c-9fd4-6e9aec49d742"],                   
             "key2": null,                                                
             "key3": "value"},
 			"contents": null
