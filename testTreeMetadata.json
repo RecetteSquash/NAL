@@ -5,7 +5,7 @@
 		{
 			"name": "test_KO.ta",
           	"metadata" : {
-	    "linked-TC": ["25f54760-b5cc-4ef8-accc-505d08a162f8", "816f76bb-8683-4b47-95ab-b3e223606c83", "ed7dbeb0-3465-40cf-b283-c863b4faead4","168c0305-b53f-440c-9fd4-6e9aec49d742"],                   
+	    "linked-TC": ["a1d8a990-7f10-4b33-9857-5377d21f01b0","5a821585-430b-4d7b-833d-89212dfa4b3b","25f54760-b5cc-4ef8-accc-505d08a162f8", "816f76bb-8683-4b47-95ab-b3e223606c83", "ed7dbeb0-3465-40cf-b283-c863b4faead4","168c0305-b53f-440c-9fd4-6e9aec49d742"],                   
             "key2": null,                                                
             "key3": "value"},
 			"contents": null
@@ -14,7 +14,7 @@
 		{
 			"name": "test_OK.ta",
 			"metadata" : {
-	    "linked-TC": ["c43f0b9f-702d-4269-b450-c6b537a79686", "ed7dbeb0-3465-40cf-b283-c863b4faead4"],                   
+	    "linked-TC": ["a1d8a990-7f10-4b33-9857-5377d21f01b0","c43f0b9f-702d-4269-b450-c6b537a79686", "ed7dbeb0-3465-40cf-b283-c863b4faead4"],                   
             "key2": null,                                                
             "key3": "value"},
           	
