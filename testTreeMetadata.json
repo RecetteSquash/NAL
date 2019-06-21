@@ -14,7 +14,7 @@
 		{
 			"name": "test_OK.ta",
 			"metadata" : {
-	    "linked-TC": ["c43f0b9f-702d-4269-b450-c6b537a79686", "816f76bb-8683-4b47-95ab-b3e223606c83"],                   
+	    "linked-TC": ["c43f0b9f-702d-4269-b450-c6b537a79686", "ed7dbeb0-3465-40cf-b283-c863b4faead4"],                   
             "key2": null,                                                
             "key3": "value"},
           	
