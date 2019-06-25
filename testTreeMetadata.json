@@ -5,7 +5,7 @@
 		{
 			"name": "test_KO.ta",
           	"metadata" : {
-	    "linked-TC": ["4c1a6b9f-52aa-45ac-a70a-e6c0e768c84b"],                   
+	    "linked-TC": ["e8190bfd-69a1-4887-a882-ddf5a264dbb1","54ef7fd0-283f-45f7-80cb-0b00e64c56f8"],                   
             "key2": null,                                                
             "key3": "value"},
 			"contents": null
@@ -14,7 +14,7 @@
 		{
 			"name": "test_OK.ta",
 			"metadata" : {
-	    "linked-TC": ["6dbc57b0-364d-43c5-a49d-34e935b46d59"],                   
+	    "linked-TC": ["54ef7fd0-283f-45f7-80cb-0b00e64c56f8"],                   
             "key2": null,                                                
             "key3": "value"},
           	
